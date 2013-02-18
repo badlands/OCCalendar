@@ -1,0 +1,6 @@
+pod do |spec|
+  spec.name         = 'OCCalendar'
+  spec.version      = '1.0'
+  spec.source       = { :git => 'https://github.com/badlands/OCCalendar.git', :tag => 'v1.0' }
+  spec.source_files = 'OCCalendarView'
+end
